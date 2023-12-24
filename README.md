@@ -3,7 +3,8 @@
 <p align=center>
 Repository that contains <a href="https://www.linkedin.com/in/roman-kalashnikov-a2b63b290/">my</a> portfolio of data science projects completed during my professional training course at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
 Presented in the form of iPython Notebooks and readme markdown files. <br>
-
+<br>
+  <a href="https://github.com/kRomanL1337/vault_forsen/blob/main/yandex_ds_certificate.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
 
 These projects were completed during the "Data Analyst" / "Data Science Specialist" professional training course at Yandex.Practicum
 
